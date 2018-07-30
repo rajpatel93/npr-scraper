@@ -1,0 +1,22 @@
+{
+  "name": "mongo-news-scraper",
+  "version": "1.0.0",
+  "description": "A Node.js and MongoDB application that stores scraped news from www.npr.org and lets users leave comments on the articles",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajpatel93/npr-scraper.git"
+  },
+  "author": "Raj Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajpatel93/npr-scraper/issues"
+  },
+  "homepage": "https://github.com/rajpatel93/npr-scraper#readme"
+}
